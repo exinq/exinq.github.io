@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image: url('https://exinq.github.io/Pics/nad_portom_kaliningrada.png');
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -62,19 +62,19 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: #ffffff;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #F08080;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
-  background-color: #fbd1d5;
+  color: #F08080;
+  background-color: #ffffff;
 }
 
 .btn-secondary {
-  background-color: #E8DFE0;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #F08080;
   margin: 0 0 30px;
 }
 
