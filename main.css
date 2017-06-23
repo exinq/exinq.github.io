@@ -59,6 +59,12 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.shadowtext {
+    text-shadow: 2px 2px 10px white; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 2em; /* Размер надписи */
+   }
+
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
