@@ -70,17 +70,17 @@ section .row img {
   border: 0px;
   color: #ffffff;
   text-shadow: none;
-  background-color: #F08080;
+  background-color: #ff5c5c;
 }
 
 .btn.btn-primary:hover {
-  color: #F08080;
+  color: #ff5c5c;
   background-color: #ffffff;
 }
 
 .btn-secondary {
   background-color: #ffffff;
-  color: #F08080;
+  color: #ff5c5c;
   margin: 0 0 30px;
 }
 
