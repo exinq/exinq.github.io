@@ -73,8 +73,21 @@ section .row img {
   background-color: #ff5c5c;
 }
 
+.btn.btn-primary1 {
+  border-radius: 2px;
+  border: 0px;
+  color: #ffffff;
+  text-shadow: none;
+  background-color: #5a55ed;
+}
+
 .btn.btn-primary:hover {
   color: #ff5c5c;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary1:hover {
+  color: #5a55ed;
   background-color: #ffffff;
 }
 
