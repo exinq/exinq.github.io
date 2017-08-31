@@ -35,7 +35,7 @@ header p {
   background-size: cover;
   color: #ffffff;
   height: 500px;
-  text-shadow: 0.35px 0.35px 0.35px #ff5c5c;
+  text-shadow: 0.35px 0.35px 0.35px #FA5C1A;
 }
 
 .jumbotron h2 {
@@ -70,7 +70,7 @@ section .row img {
   border: 0px;
   color: #ffffff;
   text-shadow: none;
-  background-color: #ff5c5c;
+  background-color: #FA5C1A;
 }
 
 .btn.btn-primary1 {
@@ -82,7 +82,7 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color: #ff5c5c;
+  color: #FA5C1A;
   background-color: #ffffff;
 }
 
@@ -93,7 +93,7 @@ section .row img {
 
 .btn-secondary {
   background-color: #ffffff;
-  color: #ff5c5c;
+  color: #FA5C1A;
   margin: 0 0 30px;
 }
 
